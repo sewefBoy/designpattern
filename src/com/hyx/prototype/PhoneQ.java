@@ -4,6 +4,8 @@ import java.util.List;
 
 /**
  * 原型模式
+ * 通过拷贝原型创建新的对象
+ * 实现Cloneable
  * 浅度克隆
  * @author sewef
  *
